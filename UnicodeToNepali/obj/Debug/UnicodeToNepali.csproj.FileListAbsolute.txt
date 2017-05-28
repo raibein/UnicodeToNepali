@@ -1,0 +1,6 @@
+c:\users\raben\documents\visual studio 2015\Projects\UnicodeToNepali\UnicodeToNepali\bin\Debug\UnicodeToNepali.exe.config
+c:\users\raben\documents\visual studio 2015\Projects\UnicodeToNepali\UnicodeToNepali\bin\Debug\UnicodeToNepali.exe
+c:\users\raben\documents\visual studio 2015\Projects\UnicodeToNepali\UnicodeToNepali\bin\Debug\UnicodeToNepali.pdb
+c:\users\raben\documents\visual studio 2015\Projects\UnicodeToNepali\UnicodeToNepali\obj\Debug\UnicodeToNepali.csprojResolveAssemblyReference.cache
+c:\users\raben\documents\visual studio 2015\Projects\UnicodeToNepali\UnicodeToNepali\obj\Debug\UnicodeToNepali.exe
+c:\users\raben\documents\visual studio 2015\Projects\UnicodeToNepali\UnicodeToNepali\obj\Debug\UnicodeToNepali.pdb
